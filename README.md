@@ -11,14 +11,11 @@ An interactive split landing page with dynamic hover effects. This project showc
 
 ## Screenshots
 
-### Summer View:
-![Summer Theme](./images/lake-8352059_1920.jpg)
 
-### Winter View:
-![Winter Theme](./images/hd-wallpapers-8439523_1920.jpg)
+(./images/Screenshot%202025-01-19%20164121.png)
 
 ## Live Demo
-[View the project on GitHub Pages](#) (Replace with your GitHub Pages link)
+[View the project on GitHub Pages](https://vipyan.github.io/Split-landing-page/) 
 
 ## Technologies Used
 
